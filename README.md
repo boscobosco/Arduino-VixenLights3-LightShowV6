@@ -1,4 +1,4 @@
-# Light-Show-V6
+# Arduino-VixenLights3-LightShowV6
 My Lab #2.4-1｜Arduino Projects｜Light Show V6.0｜Vixen Lights 3｜Rewrite The Stars｜2021.05.23
 https://youtu.be/AlV90JXyxh4
 
