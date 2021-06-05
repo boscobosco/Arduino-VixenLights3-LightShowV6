@@ -1,5 +1,6 @@
 # Light-Show-V6
 My Lab #2.4-1｜Arduino Projects｜Light Show V6.0｜Vixen Lights 3｜Rewrite The Stars｜2021.05.23
+
 186 Channels (177 LED + 9 Servo Motor)
 Arduino Nano 1 - 24 RGB LED
 Arduino Nano 2 - 19 RGB LED
